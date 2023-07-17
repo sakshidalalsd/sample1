@@ -1874,7 +1874,7 @@
               <Group type="102" attributes="0">
                   <EmptySpace max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="0" attributes="0">
-                      <Group type="103" groupAlignment="3" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
                           <Component id="r1c1" alignment="1" min="-2" pref="40" max="-2" attributes="0"/>
                           <Component id="r1c2" alignment="1" min="-2" pref="40" max="-2" attributes="0"/>
                       </Group>
@@ -1882,7 +1882,7 @@
                   </Group>
                   <EmptySpace type="unrelated" max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="0" attributes="0">
-                      <Group type="103" groupAlignment="3" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
                           <Component id="r2c2" alignment="1" min="-2" pref="40" max="-2" attributes="0"/>
                           <Component id="r2c3" alignment="1" min="-2" pref="40" max="-2" attributes="0"/>
                       </Group>
